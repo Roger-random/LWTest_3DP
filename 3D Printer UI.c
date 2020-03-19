@@ -74,7 +74,7 @@ int CVICALLBACK panelCB (int panel, int event, void *callbackData,
 
 			break;
 		case EVENT_CLOSE:
-
+			QuitUserInterface(0);
 			break;
 	}
 	return 0;
@@ -101,7 +101,7 @@ int CVICALLBACK button_quit (int panel, int control, int event,
 	switch (event)
 	{
 		case EVENT_COMMIT:
-
+			QuitUserInterface(0);
 			break;
 		case EVENT_RIGHT_CLICK:
 

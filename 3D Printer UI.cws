@@ -48,7 +48,7 @@ Batch Build Debug = False
 [File 0001]
 Path = "/c/Users/roger/coding/LWTest_3DP/3D Printer UI.uir"
 File Type = "User Interface Resource"
-Disk Date = 3667349732
+Disk Date = 3667444729
 In Projects = "1,"
 Window Top = 33
 Window Left = 10
@@ -59,9 +59,9 @@ Window Z-Order = 2
 [File 0002]
 Path = "/c/Users/roger/coding/LWTest_3DP/3D Printer UI.c"
 File Type = "CSource"
-Disk Date = 3667349688
+Disk Date = 3667444830
 In Projects = "1,"
-Source Window State = "1,65,65,65,53,53,53,0,0,0,0,0,0,0,0,0,46,0,65,53,401,630,1,0,"
+Source Window State = "1,76,76,76,33,33,33,0,0,0,0,0,0,0,0,0,46,0,76,33,401,630,1,0,"
 Window Top = 64
 Window Left = 26
 Window Z-Order = 1
